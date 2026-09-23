@@ -1,6 +1,17 @@
-Ganti isi file ini dengan teks About milikmu.
+KordApp adalah aplikasi Chord Music dengan database Offline
+dibuat senyaman mungkin dengan UI dan UX. berbeda dengan aplikasi chord lain.
 
-Kalau sebelumnya About sudah pakai repo lama (salescau1/chordapp-about/about.txt),
-salin isinya ke sini supaya semuanya jadi satu repo.
+FITUR UTAMA
+- Katalog chord offline — ribuan lagu siap dibuka kapan saja.
+- Setlist & Favorit — susun daftar main untuk latihan atau manggung.
+- Transpose & capo — sesuaikan nada dengan suara atau alat kamu.
+- Chart harian — pantau lagu yang sedang populer.
 
-Aturan: repo publik, sebut handle saja (g0dzella / kekalclip), bukan nama asli.
+TENTANG BRAND
+KordApp dikembangkan oleh g0dzella di bawah bendera kekalclip. Misinya sederhana: bikin alat main musik yang cepat, ringan, dan bisa diandalkan walau sedang tanpa sinyal.
+
+CATATAN KONTEN
+Chord dan lirik yang ditampilkan merupakan referensi komunitas untuk keperluan belajar dan latihan pribadi. Hak cipta lagu tetap milik pencipta dan pemegang hak masing-masing.
+
+Dukung saya sebagai Developer untuk tetap berkreasi.
+Trakteer : 0895626994567
