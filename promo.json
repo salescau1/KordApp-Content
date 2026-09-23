@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "promos": [
+    {
+      "id": "contoh-nonaktif",
+      "active": false,
+      "image": "images/contoh.jpg",
+      "title": "Judul Promosi",
+      "subtitle": "Teks pendukung singkat",
+      "action": {
+        "type": "external",
+        "url": "https://open.spotify.com/artist/xxxx"
+      }
+    }
+  ]
+}

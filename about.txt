@@ -1,0 +1,6 @@
+Ganti isi file ini dengan teks About milikmu.
+
+Kalau sebelumnya About sudah pakai repo lama (salescau1/chordapp-about/about.txt),
+salin isinya ke sini supaya semuanya jadi satu repo.
+
+Aturan: repo publik, sebut handle saja (g0dzella / kekalclip), bukan nama asli.
