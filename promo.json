@@ -3,13 +3,13 @@
   "promos": [
     {
       "id": "contoh-nonaktif",
-      "active": false,
+      "active": true,
       "image": "images/contoh.jpg",
-      "title": "Judul Promosi",
-      "subtitle": "Teks pendukung singkat",
+      "title": "Dukung Band Lokal!",
+      "subtitle": "lanjut",
       "action": {
         "type": "external",
-        "url": "https://open.spotify.com/artist/xxxx"
+        "url": "https://open.spotify.com/track/2wAiFWjRupWmnDkQcu91MF?autoplay_ok=1"
       }
     }
   ]
