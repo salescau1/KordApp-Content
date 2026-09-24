@@ -4,7 +4,7 @@
     {
       "id": "contoh-nonaktif",
       "active": true,
-      "image": "noah.jpg",
+      "image": "https://raw.githubusercontent.com/salescau1/KordApp-Content/refs/heads/main/noah.jpg",
       "title": "Dukung Band Lokal!",
       "subtitle": "lanjut",
       "action": {
